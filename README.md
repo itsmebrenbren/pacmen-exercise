@@ -5,7 +5,6 @@ MIT XPRO exercise that generates pacmen
 
 ## Description
 This repo was created as part of the MITxPro course.
-
 This repo generates pacmen on a click of a button, and then on clicking "make faster" the pacmen move about the screen.
 
 ## How to Run
